@@ -10,3 +10,7 @@ Minecraft
 Rust
 VALORANT
 World of Tanks
+World of Warcraft
+Zwift
+Astroneer
+Yakuza: Like a Dragon
